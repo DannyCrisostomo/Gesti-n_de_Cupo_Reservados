@@ -46,11 +46,8 @@ Este repositorio alberga un prototipo desarrollado en Microsoft Excel para la ge
 
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes sugerencias de mejora, no dudes en abrir un problema o enviar una solicitud de extracción.
 
-## Licencia 📄
+## Vista-Previa
 
-Este prototipo se proporciona bajo la [Licencia MIT](LICENSE). Puedes utilizar, modificar y distribuir el código según los términos de la licencia.
-
----
+![php](https://github.com/DannyCrisostomo/Gestion_De_Cupo_Reservados/blob/main/Gesti%C3%B3n%20de%20Cupo%20Reservados%20para%20Hospital.png)
 
 Gracias por explorar el prototipo de gestión de cupos hospitalarios en Excel. Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto. ¡Esperamos que sea de utilidad! 🏨✨
-![php](https://github.com/DannyCrisostomo/Gestion_De_Cupo_Reservados/blob/main/Gesti%C3%B3n%20de%20Cupo%20Reservados%20para%20Hospital.png)
